@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataMining", "DataMining\DataMining.csproj", "{A7138905-E3C3-42CC-B2D2-62E4DE18D969}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		app_configuration|Any CPU = app_configuration|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7138905-E3C3-42CC-B2D2-62E4DE18D969}.app_configuration|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7138905-E3C3-42CC-B2D2-62E4DE18D969}.app_configuration|Any CPU.Build.0 = Debug|Any CPU
+		{A7138905-E3C3-42CC-B2D2-62E4DE18D969}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7138905-E3C3-42CC-B2D2-62E4DE18D969}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7138905-E3C3-42CC-B2D2-62E4DE18D969}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7138905-E3C3-42CC-B2D2-62E4DE18D969}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBAAEDD4-DE6E-4A48-9BA9-DD856F481C58}
+	EndGlobalSection
+EndGlobal
